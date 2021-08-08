@@ -4,7 +4,7 @@ Deployed website: https://aisha-ysn.github.io/Aisha-Yasin/
 # Table of Contents 
   - [Summary](#My-portfolio-includes)
   - [Environment](#environment)
-  - [Screenshot] (#Screenshots-of-deployed-site)
+  - [Screenshot] (#Deployed-site)
   - [Contributors](#contributors)
 
 ## My porfolio includes:
@@ -20,10 +20,10 @@ Deployed website: https://aisha-ysn.github.io/Aisha-Yasin/
 * JavaScript
 * CSS
 
-## Screenshots of deployed site
-![example]("./assets/images/Example.gif")
-![screenshot1]("./assets/images/screenshot1")
+## Deployed site
+![Example](https://user-images.githubusercontent.com/83360651/128640196-b285b077-435e-4526-82d2-034f613186de.gif)
 
+![screenshot1](https://user-images.githubusercontent.com/83360651/128640186-62083e84-ec69-4b46-a2db-f3356c366642.JPG)
 
 ## Contributors 
 * Aisha Yasin
