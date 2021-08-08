@@ -4,7 +4,7 @@ Deployed website: https://aisha-ysn.github.io/Aisha-Yasin/
 # Table of Contents 
   - [Summary](#My-portfolio-includes)
   - [Environment](#environment)
-  - [Screenshot] (#Deployed-site)
+  - [Deployed](#Deployed-site)
   - [Contributors](#contributors)
 
 ## My porfolio includes:
