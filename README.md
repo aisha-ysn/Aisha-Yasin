@@ -26,7 +26,7 @@ Example of the live site being used:
 
 
 Screenshot of the deployed site:
-![screenshot1](https://user-images.githubusercontent.com/83360651/128640186-62083e84-ec69-4b46-a2db-f3356c366642.JPG)
+![screenshot1](https://user-images.githubusercontent.com/83360651/128640186-62083e84-ec69-4b46-a2db-f3356c366642.JPG, width:"522px", height:"293px")
 
 ## Contributors 
 * Aisha Yasin
