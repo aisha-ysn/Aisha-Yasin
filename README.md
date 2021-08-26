@@ -2,12 +2,12 @@
 Deployed website: https://aisha-ysn.github.io/Aisha-Yasin/
 
 # Table of Contents 
-  - [Summary](#My-portfolio-includes)
+  - [Summary](#My-portfolio-includes:)
   - [Environment](#environment)
   - [Deployed](#Deployed-site)
   - [Contributors](#contributors)
 
-## My porfolio includes:
+## My portfolio includes:
 * Home banner (Name, About Me, Projects & Contact)
 * Skills
 * Recent projects (Project name, Description & tech stacks)
